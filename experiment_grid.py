@@ -8,6 +8,9 @@ class ExperimentGrid:
     Experiment Grid class based on
     `Spinning up <https://spinningup.openai.com/en/latest/utils/run_utils.html#experimentgrid>`_
     used to run a function over multiple parameter values either sequentially or in parallel
+    
+    NOTE: This parallelizes the training for the agent. I did NOT write this. Credit goes to 
+    Austin Harris (https://www.linkedin.com/in/austinsharris).
     """
 
     def __init__(self, func, print_kwargs=False):
