@@ -18,3 +18,5 @@ Cards have the following point values, if they end up not fitting in a combo:
 Aces are worth 15 points each
 10 to King are worth 10 points each
 2-9 are worth the number it says. So a 4 is worth 4 points. 
+
+NOTE: In my implementation of this game, I designed it such that straights *do* need to be in order to count. If I were to retrain the agent though, I would probably change this.
