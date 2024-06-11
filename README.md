@@ -1,6 +1,6 @@
 # Solitaire-Curriculum-Generation
 
-Based on the following (called High's Card Game):
+Based on the following solitaire variant (called High's Card Game):
 
 You will be given 30 unique cards from a standard deck of 52 cards. With these cards you will form a 5x5 grid (meaning there are 5 cards you will not be using). 
 Your goal is to have as many combos as possible in your rows, columns and your two diagonals. 
